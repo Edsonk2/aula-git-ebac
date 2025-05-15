@@ -1,0 +1,18 @@
+Dados do aluno
+
+-Primeiro Nome:
+Edson Brasil Oliveira
+-Profissão:
+Em breve Engenheiro de Qualidade de Software
+-Cidade:
+São Luis- MA
+-O que faz nas horas vaga:
+Estudo Engenheiro de Qualidade, desenvolvedor de Full Stack, cyber Security, python para analise de Dados
+-Feedback sobre o curso Qualidade de Software:
+muito bom estou gostando muito 
+-Feedback sobre a plataforma de estudo da EBAC:
+uma ótima plataforma 100%
+
+Obrigado!!!
+
+
